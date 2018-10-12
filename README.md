@@ -47,4 +47,4 @@ Analog_Clock.
 Digital_Clock and Ananlog_Clock are two view classes whos sole purpose is to update the view to the user of
 the current time and date. They both implement setTime and setDate.
 
-![](readMe_Images/Capture.png)
+![](readMe_Images/5.jpg)
